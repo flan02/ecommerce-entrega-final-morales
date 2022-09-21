@@ -1,0 +1,57 @@
+.nav-link{
+    color: rgb(50, 163, 216);
+}
+.navbar-brand{
+    color: rgb(50, 163, 216);
+}
+.btn {
+    color: rgb(50, 163, 216);
+    background-color: #29282709;
+    border-radius: 100px;
+}
+
+.btn:hover {
+    background-color: #72c55294 !important;
+    transition: .3s;
+    color: white;
+    
+}
+
+.titulo-h1{
+    text-align: center;
+    color: white;
+    background-color: #32a3d8;
+    font-family: 'Urbanist', sans-serif;
+}
+
+
+.form-select{
+    color:cadetblue
+}
+
+.fuenteCards{
+    color: rgb(50, 163, 216);
+}
+
+.tituloh4{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    color: #32a3d8;
+    font-family: 'Urbanist', sans-serif;
+
+}
+
+.container-fluid{
+    font-family: 'Urbanist', sans-serif;
+}
+
+.container{
+    font-family: 'Urbanist', sans-serif;
+}
+
+.valorDolar{
+    text-align: center;
+    color: white;
+    font-family: 'Urbanist', sans-serif;
+}
